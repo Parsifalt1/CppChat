@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\diako\OneDrive\Робочий стіл\бурса\client\client\client.cpp(78,41): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  client.vcxproj -> C:\Users\diako\OneDrive\Робочий стіл\бурса\client\x64\Debug\client.exe
